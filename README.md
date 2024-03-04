@@ -72,7 +72,7 @@ from the picture we can see the answer is
 
 - 631,152.50 Hours
 
-<img src="https://github.com/juandavidlozano/Homework5_zoomcamp/blob/main/homework5.3.jpg" alt="Answer 1" width="1000" height="500"
+<img src="https://github.com/juandavidlozano/Homework5_zoomcamp/blob/main/homework5.3.jpg" alt="Answer 1" width="1000" height="500">
 
 ### Question 5: 
 
