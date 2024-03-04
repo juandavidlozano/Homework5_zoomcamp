@@ -105,5 +105,4 @@ from the picture we can see the answer is
 
 - Jamaica Bay
 
-
-<img src="https://github.com/juandavidlozano/Homework5_zoomcamp/blob/main/homework5.4.jpg" alt="Answer 1" width="1000" height="500"
+<img src="https://github.com/juandavidlozano/Homework5_zoomcamp/blob/main/homework5.4.jpg" alt="Answer 1" width="1000" height="500">
