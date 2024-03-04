@@ -17,7 +17,7 @@ from the picture we can see the answer is
 
 '3.3.2'
 
-<img src="https://github.com/juandavidlozano/Homework3_zoomcamp/blob/main/homework5.1.jpg" alt="Answer 1" width="1000" height="500">
+<img src="https://github.com/juandavidlozano/Homework5_zoomcamp/blob/main/homework5.1.jpg" alt="Answer 1" width="1000" height="500">
 
 ### Question 2: 
 
@@ -55,7 +55,7 @@ from the picture we can see the answer is
 
 - 62,610
 
-<img src="https://github.com/juandavidlozano/Homework3_zoomcamp/blob/main/homework5.2.jpg" alt="Answer 1" width="1000" height="500">
+<img src="https://github.com/juandavidlozano/Homework5_zoomcamp/blob/main/homework5.2.jpg" alt="Answer 1" width="1000" height="500">
 
 ### Question 4: 
 
@@ -72,7 +72,7 @@ from the picture we can see the answer is
 
 - 631,152.50 Hours
 
-<img src="https://github.com/juandavidlozano/Homework3_zoomcamp/blob/main/homework5.3.jpg" alt="Answer 1" width="1000" height="500"
+<img src="https://github.com/juandavidlozano/Homework5_zoomcamp/blob/main/homework5.3.jpg" alt="Answer 1" width="1000" height="500"
 
 ### Question 5: 
 
@@ -106,4 +106,4 @@ from the picture we can see the answer is
 - Jamaica Bay
 
 
-<img src="https://github.com/juandavidlozano/Homework3_zoomcamp/blob/main/homework5.4.jpg" alt="Answer 1" width="1000" height="500"
+<img src="https://github.com/juandavidlozano/Homework5_zoomcamp/blob/main/homework5.4.jpg" alt="Answer 1" width="1000" height="500"
